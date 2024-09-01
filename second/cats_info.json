@@ -1,0 +1,9475 @@
+[
+    {
+        "name": "Oreo Tail",
+        "age": 17,
+        "features": [
+            "outdoor cat",
+            "mischievous",
+            "nocturnal",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 20,
+        "features": [
+            "plays fetch",
+            "requires grooming",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 0,
+        "features": [
+            "hypoallergenic",
+            "curious",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 3,
+        "features": [
+            "sociable with other pets",
+            "indoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 9,
+        "features": [
+            "nocturnal",
+            "curious"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 20,
+        "features": [
+            "loves water",
+            "follows owner",
+            "sociable with other pets",
+            "good with kids",
+            "curious"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 15,
+        "features": [
+            "curious",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 2,
+        "features": [
+            "good with kids",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 19,
+        "features": [
+            "nocturnal",
+            "mischievous",
+            "short hair",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 3,
+        "features": [
+            "indoor cat",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 13,
+        "features": [
+            "outdoor cat",
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 8,
+        "features": [
+            "sociable with other pets",
+            "lap cat",
+            "good with kids",
+            "scratches furniture",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 20,
+        "features": [
+            "scratches furniture",
+            "hypoallergenic",
+            "requires grooming",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 16,
+        "features": [
+            "scratches furniture",
+            "curious",
+            "follows owner",
+            "hypoallergenic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 10,
+        "features": [
+            "follows owner",
+            "hates being alone",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 7,
+        "features": [
+            "hates being alone",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 18,
+        "features": [
+            "nocturnal",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 4,
+        "features": [
+            "sociable with other pets",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 3,
+        "features": [
+            "energetic",
+            "nocturnal",
+            "indoor cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 8,
+        "features": [
+            "scratches furniture",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 5,
+        "features": [
+            "short hair",
+            "long hair",
+            "loves water",
+            "indoor cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 0,
+        "features": [
+            "requires grooming",
+            "plays fetch",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 14,
+        "features": [
+            "short hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 18,
+        "features": [
+            "loves to climb",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 6,
+        "features": [
+            "plays fetch",
+            "nocturnal",
+            "indoor cat",
+            "sociable with other pets",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 15,
+        "features": [
+            "energetic",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 15,
+        "features": [
+            "lazy",
+            "loves to climb",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 20,
+        "features": [
+            "hypoallergenic",
+            "sociable with other pets",
+            "indoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 4,
+        "features": [
+            "short hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 13,
+        "features": [
+            "loves to climb",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 8,
+        "features": [
+            "indoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Smokey Whiskers",
+        "age": 9,
+        "features": [
+            "loves to climb",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 5,
+        "features": [
+            "sociable with other pets",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 15,
+        "features": [
+            "curious",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 18,
+        "features": [
+            "energetic",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 3,
+        "features": [
+            "requires grooming",
+            "good with kids",
+            "loves water",
+            "long hair",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 1,
+        "features": [
+            "long hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Smokey Meow",
+        "age": 4,
+        "features": [
+            "nocturnal",
+            "scratches furniture",
+            "curious",
+            "hates being alone",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 0,
+        "features": [
+            "nocturnal",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 17,
+        "features": [
+            "loves water",
+            "hates being alone",
+            "follows owner",
+            "mischievous",
+            "curious"
+        ]
+    },
+    {
+        "name": "Coco Whiskers",
+        "age": 18,
+        "features": [
+            "follows owner",
+            "plays fetch",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 16,
+        "features": [
+            "follows owner",
+            "nocturnal",
+            "loves water",
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Oreo Nose",
+        "age": 7,
+        "features": [
+            "loves water",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Paws",
+        "age": 11,
+        "features": [
+            "good with kids",
+            "hates being alone",
+            "short hair",
+            "mischievous",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 18,
+        "features": [
+            "indoor cat",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 7,
+        "features": [
+            "sociable with other pets",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Shadow Nose",
+        "age": 16,
+        "features": [
+            "mischievous",
+            "lap cat",
+            "hates being alone",
+            "loves water",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 4,
+        "features": [
+            "hates being alone",
+            "indoor cat",
+            "requires grooming",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 15,
+        "features": [
+            "hates being alone",
+            "lap cat",
+            "outdoor cat",
+            "follows owner",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 19,
+        "features": [
+            "hypoallergenic",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 7,
+        "features": [
+            "loves water",
+            "good with kids",
+            "outdoor cat",
+            "plays fetch",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 12,
+        "features": [
+            "long hair",
+            "plays fetch",
+            "energetic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Tiger Fur",
+        "age": 13,
+        "features": [
+            "lap cat",
+            "lazy",
+            "outdoor cat",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 6,
+        "features": [
+            "lazy",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 6,
+        "features": [
+            "lap cat",
+            "long hair",
+            "energetic",
+            "follows owner",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 1,
+        "features": [
+            "curious",
+            "lazy",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Simba Whiskers",
+        "age": 13,
+        "features": [
+            "mischievous",
+            "lazy",
+            "nocturnal",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 15,
+        "features": [
+            "short hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 9,
+        "features": [
+            "scratches furniture",
+            "sociable with other pets",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 17,
+        "features": [
+            "follows owner",
+            "lazy",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 5,
+        "features": [
+            "hypoallergenic",
+            "plays fetch",
+            "loves water",
+            "requires grooming",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 0,
+        "features": [
+            "scratches furniture",
+            "plays fetch",
+            "short hair",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 10,
+        "features": [
+            "scratches furniture",
+            "sociable with other pets",
+            "mischievous",
+            "energetic",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 8,
+        "features": [
+            "lazy",
+            "requires grooming",
+            "hates being alone",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Shadow Whiskers",
+        "age": 14,
+        "features": [
+            "loves to climb",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 9,
+        "features": [
+            "short hair",
+            "mischievous",
+            "sociable with other pets",
+            "outdoor cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 19,
+        "features": [
+            "curious",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 10,
+        "features": [
+            "nocturnal",
+            "energetic",
+            "long hair",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 0,
+        "features": [
+            "sociable with other pets",
+            "follows owner",
+            "mischievous",
+            "loves to climb",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 9,
+        "features": [
+            "curious",
+            "plays fetch",
+            "energetic",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 12,
+        "features": [
+            "curious",
+            "short hair",
+            "nocturnal",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Ears",
+        "age": 11,
+        "features": [
+            "nocturnal",
+            "loves water",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 4,
+        "features": [
+            "sociable with other pets",
+            "long hair",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 13,
+        "features": [
+            "lap cat",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 17,
+        "features": [
+            "mischievous",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 16,
+        "features": [
+            "loves water",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 1,
+        "features": [
+            "indoor cat",
+            "lap cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Smokey Ears",
+        "age": 10,
+        "features": [
+            "curious",
+            "good with kids",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 10,
+        "features": [
+            "hates being alone",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 9,
+        "features": [
+            "plays fetch",
+            "mischievous",
+            "nocturnal",
+            "outdoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Nose",
+        "age": 15,
+        "features": [
+            "indoor cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 8,
+        "features": [
+            "mischievous",
+            "sociable with other pets",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 8,
+        "features": [
+            "long hair",
+            "loves water",
+            "nocturnal",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 5,
+        "features": [
+            "indoor cat",
+            "lazy",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 17,
+        "features": [
+            "hypoallergenic",
+            "energetic",
+            "loves water",
+            "loves to climb",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 5,
+        "features": [
+            "hates being alone",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 16,
+        "features": [
+            "lazy",
+            "short hair",
+            "requires grooming",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 2,
+        "features": [
+            "short hair",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Whiskers",
+        "age": 14,
+        "features": [
+            "hates being alone",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 7,
+        "features": [
+            "good with kids",
+            "hypoallergenic",
+            "sociable with other pets",
+            "lap cat",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 3,
+        "features": [
+            "outdoor cat",
+            "sociable with other pets",
+            "hates being alone",
+            "nocturnal",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 15,
+        "features": [
+            "mischievous",
+            "curious",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 16,
+        "features": [
+            "requires grooming",
+            "good with kids",
+            "lap cat",
+            "hypoallergenic",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 0,
+        "features": [
+            "lap cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 13,
+        "features": [
+            "sociable with other pets",
+            "energetic",
+            "loves to climb",
+            "good with kids",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 4,
+        "features": [
+            "lap cat",
+            "curious",
+            "lazy",
+            "good with kids",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 11,
+        "features": [
+            "scratches furniture",
+            "hates being alone",
+            "sociable with other pets",
+            "energetic",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 19,
+        "features": [
+            "indoor cat",
+            "outdoor cat",
+            "loves water",
+            "loves to climb",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 4,
+        "features": [
+            "loves to climb",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 19,
+        "features": [
+            "nocturnal",
+            "hypoallergenic",
+            "curious",
+            "loves water",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 5,
+        "features": [
+            "lap cat",
+            "indoor cat",
+            "scratches furniture",
+            "short hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 12,
+        "features": [
+            "requires grooming",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 4,
+        "features": [
+            "long hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 7,
+        "features": [
+            "curious",
+            "outdoor cat",
+            "sociable with other pets",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Misty Paws",
+        "age": 12,
+        "features": [
+            "plays fetch",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 9,
+        "features": [
+            "loves water",
+            "requires grooming",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 12,
+        "features": [
+            "scratches furniture",
+            "curious",
+            "outdoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 17,
+        "features": [
+            "loves to climb",
+            "energetic",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 15,
+        "features": [
+            "loves to climb",
+            "plays fetch",
+            "hypoallergenic",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 6,
+        "features": [
+            "indoor cat",
+            "lazy",
+            "plays fetch",
+            "outdoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 4,
+        "features": [
+            "follows owner",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 10,
+        "features": [
+            "long hair",
+            "curious",
+            "hypoallergenic",
+            "nocturnal",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 3,
+        "features": [
+            "hypoallergenic",
+            "indoor cat",
+            "lap cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 3,
+        "features": [
+            "loves water",
+            "mischievous",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Paws",
+        "age": 10,
+        "features": [
+            "curious",
+            "long hair",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 10,
+        "features": [
+            "short hair",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 13,
+        "features": [
+            "curious",
+            "nocturnal",
+            "lap cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Coco Whiskers",
+        "age": 5,
+        "features": [
+            "outdoor cat",
+            "hypoallergenic",
+            "mischievous",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 19,
+        "features": [
+            "requires grooming",
+            "loves to climb",
+            "indoor cat",
+            "long hair",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 14,
+        "features": [
+            "sociable with other pets",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 10,
+        "features": [
+            "loves water",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Tiger Fur",
+        "age": 10,
+        "features": [
+            "lap cat",
+            "loves water",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 20,
+        "features": [
+            "hates being alone",
+            "curious"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 4,
+        "features": [
+            "outdoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 18,
+        "features": [
+            "mischievous",
+            "curious",
+            "outdoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 17,
+        "features": [
+            "loves to climb",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 14,
+        "features": [
+            "curious",
+            "follows owner",
+            "hates being alone",
+            "plays fetch",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 4,
+        "features": [
+            "follows owner",
+            "nocturnal",
+            "curious",
+            "sociable with other pets",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 11,
+        "features": [
+            "good with kids",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 9,
+        "features": [
+            "short hair",
+            "lap cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 16,
+        "features": [
+            "short hair",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 6,
+        "features": [
+            "sociable with other pets",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 16,
+        "features": [
+            "requires grooming",
+            "long hair",
+            "hates being alone",
+            "scratches furniture",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 10,
+        "features": [
+            "short hair",
+            "indoor cat",
+            "follows owner",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 3,
+        "features": [
+            "loves to climb",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Ginger Whiskers",
+        "age": 20,
+        "features": [
+            "curious",
+            "energetic",
+            "plays fetch",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Misty Paws",
+        "age": 15,
+        "features": [
+            "scratches furniture",
+            "requires grooming",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 9,
+        "features": [
+            "lazy",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 12,
+        "features": [
+            "short hair",
+            "loves to climb",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 5,
+        "features": [
+            "loves to climb",
+            "short hair",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 14,
+        "features": [
+            "nocturnal",
+            "requires grooming",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 11,
+        "features": [
+            "requires grooming",
+            "short hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 0,
+        "features": [
+            "loves to climb",
+            "long hair",
+            "lazy",
+            "scratches furniture",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 3,
+        "features": [
+            "hates being alone",
+            "scratches furniture",
+            "sociable with other pets",
+            "good with kids",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 4,
+        "features": [
+            "hates being alone",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 12,
+        "features": [
+            "energetic",
+            "outdoor cat",
+            "indoor cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 16,
+        "features": [
+            "loves water",
+            "long hair",
+            "indoor cat",
+            "good with kids",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Nose",
+        "age": 5,
+        "features": [
+            "requires grooming",
+            "loves to climb",
+            "loves water",
+            "lazy",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 13,
+        "features": [
+            "loves water",
+            "scratches furniture",
+            "lazy",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Coco Purr",
+        "age": 6,
+        "features": [
+            "scratches furniture",
+            "requires grooming",
+            "lazy",
+            "nocturnal",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 12,
+        "features": [
+            "energetic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 15,
+        "features": [
+            "curious",
+            "good with kids",
+            "hates being alone",
+            "energetic",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 7,
+        "features": [
+            "scratches furniture",
+            "plays fetch",
+            "requires grooming",
+            "lap cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 12,
+        "features": [
+            "long hair",
+            "nocturnal",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 17,
+        "features": [
+            "loves water",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 8,
+        "features": [
+            "good with kids",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Coco Paws",
+        "age": 14,
+        "features": [
+            "sociable with other pets",
+            "lap cat",
+            "hypoallergenic",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 15,
+        "features": [
+            "sociable with other pets",
+            "good with kids",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 16,
+        "features": [
+            "lazy",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Ginger Purr",
+        "age": 18,
+        "features": [
+            "short hair",
+            "hypoallergenic",
+            "mischievous",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 16,
+        "features": [
+            "loves to climb",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 11,
+        "features": [
+            "short hair",
+            "long hair",
+            "curious",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 13,
+        "features": [
+            "outdoor cat",
+            "lazy",
+            "indoor cat",
+            "mischievous",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 5,
+        "features": [
+            "energetic",
+            "loves water",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 14,
+        "features": [
+            "lazy",
+            "indoor cat",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Fur",
+        "age": 10,
+        "features": [
+            "indoor cat",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 7,
+        "features": [
+            "loves to climb",
+            "scratches furniture",
+            "lazy",
+            "requires grooming",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 13,
+        "features": [
+            "plays fetch",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 10,
+        "features": [
+            "plays fetch",
+            "mischievous",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 18,
+        "features": [
+            "lap cat",
+            "sociable with other pets",
+            "follows owner",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 6,
+        "features": [
+            "indoor cat",
+            "loves water",
+            "lap cat",
+            "curious"
+        ]
+    },
+    {
+        "name": "Fluffy Nose",
+        "age": 18,
+        "features": [
+            "mischievous",
+            "good with kids",
+            "plays fetch",
+            "follows owner",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 4,
+        "features": [
+            "mischievous",
+            "scratches furniture",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 1,
+        "features": [
+            "follows owner",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 4,
+        "features": [
+            "curious",
+            "indoor cat",
+            "hates being alone",
+            "good with kids",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 19,
+        "features": [
+            "indoor cat",
+            "follows owner",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 15,
+        "features": [
+            "requires grooming",
+            "loves to climb",
+            "nocturnal",
+            "lazy",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 1,
+        "features": [
+            "short hair",
+            "plays fetch",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 15,
+        "features": [
+            "energetic",
+            "long hair",
+            "mischievous",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 12,
+        "features": [
+            "indoor cat",
+            "curious",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 19,
+        "features": [
+            "nocturnal",
+            "lazy",
+            "requires grooming",
+            "short hair",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 5,
+        "features": [
+            "short hair",
+            "hates being alone",
+            "follows owner",
+            "requires grooming",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Eyes",
+        "age": 10,
+        "features": [
+            "scratches furniture",
+            "sociable with other pets",
+            "lazy",
+            "requires grooming",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 17,
+        "features": [
+            "energetic",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 17,
+        "features": [
+            "scratches furniture",
+            "long hair",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Ears",
+        "age": 19,
+        "features": [
+            "hypoallergenic",
+            "outdoor cat",
+            "requires grooming",
+            "energetic",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 19,
+        "features": [
+            "sociable with other pets",
+            "lap cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 16,
+        "features": [
+            "short hair",
+            "hypoallergenic",
+            "follows owner",
+            "requires grooming",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 13,
+        "features": [
+            "curious",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 16,
+        "features": [
+            "lazy",
+            "outdoor cat",
+            "long hair",
+            "indoor cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 15,
+        "features": [
+            "good with kids",
+            "scratches furniture",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 14,
+        "features": [
+            "loves to climb",
+            "scratches furniture",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 0,
+        "features": [
+            "scratches furniture",
+            "indoor cat",
+            "energetic",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 18,
+        "features": [
+            "scratches furniture",
+            "sociable with other pets",
+            "outdoor cat",
+            "short hair",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 3,
+        "features": [
+            "hypoallergenic",
+            "lap cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 15,
+        "features": [
+            "hypoallergenic",
+            "scratches furniture",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 7,
+        "features": [
+            "indoor cat",
+            "scratches furniture",
+            "loves to climb",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 1,
+        "features": [
+            "loves water",
+            "energetic",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 0,
+        "features": [
+            "hypoallergenic",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Nose",
+        "age": 12,
+        "features": [
+            "indoor cat",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 3,
+        "features": [
+            "loves water",
+            "outdoor cat",
+            "hates being alone",
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 19,
+        "features": [
+            "energetic",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 18,
+        "features": [
+            "plays fetch",
+            "good with kids",
+            "curious",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 12,
+        "features": [
+            "lazy",
+            "outdoor cat",
+            "loves water",
+            "sociable with other pets",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Ears",
+        "age": 19,
+        "features": [
+            "requires grooming",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 14,
+        "features": [
+            "nocturnal",
+            "good with kids",
+            "scratches furniture",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 13,
+        "features": [
+            "curious",
+            "loves to climb",
+            "indoor cat",
+            "plays fetch",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Eyes",
+        "age": 19,
+        "features": [
+            "good with kids",
+            "curious"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 19,
+        "features": [
+            "plays fetch",
+            "curious",
+            "short hair",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 6,
+        "features": [
+            "loves water",
+            "hypoallergenic",
+            "requires grooming",
+            "curious",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 17,
+        "features": [
+            "loves to climb",
+            "curious",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 6,
+        "features": [
+            "hates being alone",
+            "loves water",
+            "energetic",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 3,
+        "features": [
+            "nocturnal",
+            "long hair",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 18,
+        "features": [
+            "plays fetch",
+            "lazy",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 0,
+        "features": [
+            "nocturnal",
+            "long hair",
+            "mischievous",
+            "short hair",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 14,
+        "features": [
+            "loves water",
+            "nocturnal",
+            "short hair",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 2,
+        "features": [
+            "scratches furniture",
+            "curious",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 4,
+        "features": [
+            "long hair",
+            "outdoor cat",
+            "hates being alone",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 13,
+        "features": [
+            "energetic",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 11,
+        "features": [
+            "hates being alone",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 1,
+        "features": [
+            "plays fetch",
+            "long hair",
+            "good with kids",
+            "loves water",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 3,
+        "features": [
+            "outdoor cat",
+            "loves water",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 7,
+        "features": [
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 13,
+        "features": [
+            "plays fetch",
+            "loves to climb",
+            "short hair",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 7,
+        "features": [
+            "lap cat",
+            "hypoallergenic",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 11,
+        "features": [
+            "nocturnal",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Fluffy Nose",
+        "age": 12,
+        "features": [
+            "outdoor cat",
+            "lap cat",
+            "good with kids",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 3,
+        "features": [
+            "loves to climb",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 10,
+        "features": [
+            "long hair",
+            "good with kids",
+            "plays fetch",
+            "lazy",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 4,
+        "features": [
+            "lap cat",
+            "requires grooming",
+            "loves water",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 2,
+        "features": [
+            "plays fetch",
+            "outdoor cat",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 15,
+        "features": [
+            "requires grooming",
+            "plays fetch",
+            "hypoallergenic",
+            "sociable with other pets",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 7,
+        "features": [
+            "mischievous",
+            "short hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 17,
+        "features": [
+            "loves water",
+            "lap cat",
+            "outdoor cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 2,
+        "features": [
+            "hates being alone",
+            "lazy",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 12,
+        "features": [
+            "sociable with other pets",
+            "follows owner",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 15,
+        "features": [
+            "nocturnal",
+            "lap cat",
+            "sociable with other pets",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 11,
+        "features": [
+            "hypoallergenic",
+            "scratches furniture",
+            "sociable with other pets",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Shadow Nose",
+        "age": 20,
+        "features": [
+            "hates being alone",
+            "scratches furniture",
+            "plays fetch",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 13,
+        "features": [
+            "follows owner",
+            "good with kids",
+            "sociable with other pets",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 17,
+        "features": [
+            "good with kids",
+            "lap cat",
+            "lazy",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 10,
+        "features": [
+            "curious",
+            "nocturnal",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 14,
+        "features": [
+            "outdoor cat",
+            "mischievous",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 7,
+        "features": [
+            "energetic",
+            "nocturnal",
+            "hypoallergenic",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 11,
+        "features": [
+            "loves water",
+            "follows owner",
+            "lazy",
+            "loves to climb",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 7,
+        "features": [
+            "nocturnal",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Paws",
+        "age": 1,
+        "features": [
+            "hates being alone",
+            "scratches furniture",
+            "curious",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 15,
+        "features": [
+            "energetic",
+            "plays fetch",
+            "hypoallergenic",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 20,
+        "features": [
+            "outdoor cat",
+            "short hair",
+            "sociable with other pets",
+            "nocturnal",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Shadow Nose",
+        "age": 0,
+        "features": [
+            "plays fetch",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 11,
+        "features": [
+            "loves water",
+            "requires grooming",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 12,
+        "features": [
+            "requires grooming",
+            "lap cat",
+            "scratches furniture",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 7,
+        "features": [
+            "requires grooming",
+            "follows owner",
+            "nocturnal",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 6,
+        "features": [
+            "mischievous",
+            "plays fetch",
+            "scratches furniture",
+            "requires grooming",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 5,
+        "features": [
+            "indoor cat",
+            "lazy",
+            "requires grooming",
+            "loves to climb",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 16,
+        "features": [
+            "energetic",
+            "hypoallergenic",
+            "hates being alone",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 15,
+        "features": [
+            "hypoallergenic",
+            "lazy",
+            "loves to climb",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 10,
+        "features": [
+            "follows owner",
+            "plays fetch",
+            "nocturnal",
+            "lazy",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 3,
+        "features": [
+            "requires grooming",
+            "outdoor cat",
+            "long hair",
+            "hypoallergenic",
+            "curious"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 10,
+        "features": [
+            "hates being alone",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 10,
+        "features": [
+            "loves to climb",
+            "hates being alone",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 6,
+        "features": [
+            "hypoallergenic",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 17,
+        "features": [
+            "lazy",
+            "hates being alone",
+            "follows owner",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 3,
+        "features": [
+            "requires grooming",
+            "nocturnal",
+            "hypoallergenic",
+            "energetic",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Coco Purr",
+        "age": 19,
+        "features": [
+            "mischievous",
+            "good with kids",
+            "long hair",
+            "lazy",
+            "curious"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 16,
+        "features": [
+            "mischievous",
+            "loves water",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 16,
+        "features": [
+            "loves water",
+            "energetic",
+            "scratches furniture",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 2,
+        "features": [
+            "energetic",
+            "hates being alone",
+            "scratches furniture",
+            "requires grooming",
+            "curious"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 8,
+        "features": [
+            "sociable with other pets",
+            "lap cat",
+            "nocturnal",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 20,
+        "features": [
+            "plays fetch",
+            "lap cat",
+            "sociable with other pets",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 15,
+        "features": [
+            "indoor cat",
+            "lazy",
+            "scratches furniture",
+            "mischievous",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 12,
+        "features": [
+            "plays fetch",
+            "requires grooming",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 3,
+        "features": [
+            "requires grooming",
+            "hypoallergenic",
+            "short hair",
+            "hates being alone",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 5,
+        "features": [
+            "hypoallergenic",
+            "plays fetch",
+            "outdoor cat",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Ears",
+        "age": 7,
+        "features": [
+            "lazy",
+            "hates being alone",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 0,
+        "features": [
+            "long hair",
+            "plays fetch",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 4,
+        "features": [
+            "hates being alone",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 14,
+        "features": [
+            "indoor cat",
+            "follows owner",
+            "loves water",
+            "hates being alone",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 2,
+        "features": [
+            "hates being alone",
+            "curious",
+            "energetic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 14,
+        "features": [
+            "long hair",
+            "sociable with other pets",
+            "scratches furniture",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 0,
+        "features": [
+            "hates being alone",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 1,
+        "features": [
+            "long hair",
+            "hypoallergenic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 5,
+        "features": [
+            "lazy",
+            "loves water",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 4,
+        "features": [
+            "loves water",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 17,
+        "features": [
+            "hates being alone",
+            "curious",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Whiskers",
+        "age": 10,
+        "features": [
+            "nocturnal",
+            "indoor cat",
+            "sociable with other pets",
+            "lap cat",
+            "curious"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 3,
+        "features": [
+            "indoor cat",
+            "long hair",
+            "lazy",
+            "mischievous",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 5,
+        "features": [
+            "requires grooming",
+            "scratches furniture",
+            "plays fetch",
+            "sociable with other pets",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 5,
+        "features": [
+            "nocturnal",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 10,
+        "features": [
+            "requires grooming",
+            "good with kids",
+            "follows owner",
+            "mischievous",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 14,
+        "features": [
+            "energetic",
+            "short hair",
+            "indoor cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 11,
+        "features": [
+            "follows owner",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 16,
+        "features": [
+            "curious",
+            "follows owner",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 17,
+        "features": [
+            "mischievous",
+            "energetic",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 18,
+        "features": [
+            "requires grooming",
+            "good with kids",
+            "lazy",
+            "energetic",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 13,
+        "features": [
+            "good with kids",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 9,
+        "features": [
+            "nocturnal",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 1,
+        "features": [
+            "nocturnal",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 2,
+        "features": [
+            "lap cat",
+            "loves water",
+            "curious"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 1,
+        "features": [
+            "scratches furniture",
+            "long hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Luna Fur",
+        "age": 8,
+        "features": [
+            "long hair",
+            "scratches furniture",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Luna Fur",
+        "age": 6,
+        "features": [
+            "curious",
+            "hates being alone",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 11,
+        "features": [
+            "good with kids",
+            "loves water",
+            "energetic",
+            "curious",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 15,
+        "features": [
+            "scratches furniture",
+            "loves water",
+            "hates being alone",
+            "outdoor cat",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 8,
+        "features": [
+            "hates being alone",
+            "mischievous",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 15,
+        "features": [
+            "curious",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 7,
+        "features": [
+            "lazy",
+            "curious",
+            "lap cat",
+            "loves water",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 18,
+        "features": [
+            "energetic",
+            "follows owner",
+            "plays fetch",
+            "hypoallergenic",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 10,
+        "features": [
+            "curious",
+            "outdoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 1,
+        "features": [
+            "indoor cat",
+            "energetic",
+            "curious"
+        ]
+    },
+    {
+        "name": "Tiger Fur",
+        "age": 20,
+        "features": [
+            "indoor cat",
+            "loves to climb",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Misty Paws",
+        "age": 3,
+        "features": [
+            "lazy",
+            "loves water",
+            "energetic",
+            "outdoor cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Purr",
+        "age": 9,
+        "features": [
+            "sociable with other pets",
+            "scratches furniture",
+            "hypoallergenic",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 0,
+        "features": [
+            "requires grooming",
+            "good with kids",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Luna Paws",
+        "age": 0,
+        "features": [
+            "good with kids",
+            "lap cat",
+            "hypoallergenic",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 4,
+        "features": [
+            "hates being alone",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 1,
+        "features": [
+            "energetic",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 15,
+        "features": [
+            "outdoor cat",
+            "lap cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 9,
+        "features": [
+            "loves water",
+            "lazy",
+            "nocturnal",
+            "indoor cat",
+            "curious"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 11,
+        "features": [
+            "indoor cat",
+            "short hair",
+            "nocturnal",
+            "mischievous",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Fluffy Claws",
+        "age": 14,
+        "features": [
+            "sociable with other pets",
+            "hypoallergenic",
+            "outdoor cat",
+            "nocturnal",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 9,
+        "features": [
+            "plays fetch",
+            "indoor cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 0,
+        "features": [
+            "mischievous",
+            "loves water",
+            "nocturnal",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 18,
+        "features": [
+            "good with kids",
+            "lap cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 20,
+        "features": [
+            "loves to climb",
+            "good with kids",
+            "energetic",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 4,
+        "features": [
+            "loves water",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 8,
+        "features": [
+            "outdoor cat",
+            "scratches furniture",
+            "good with kids",
+            "requires grooming",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 6,
+        "features": [
+            "plays fetch",
+            "outdoor cat",
+            "loves to climb",
+            "follows owner",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 1,
+        "features": [
+            "requires grooming",
+            "loves water",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 19,
+        "features": [
+            "requires grooming",
+            "follows owner",
+            "long hair",
+            "curious",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 15,
+        "features": [
+            "good with kids",
+            "follows owner",
+            "hates being alone",
+            "sociable with other pets",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 10,
+        "features": [
+            "mischievous",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 0,
+        "features": [
+            "loves to climb",
+            "sociable with other pets",
+            "plays fetch",
+            "outdoor cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 10,
+        "features": [
+            "outdoor cat",
+            "loves to climb",
+            "curious",
+            "scratches furniture",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 11,
+        "features": [
+            "outdoor cat",
+            "indoor cat",
+            "energetic",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 1,
+        "features": [
+            "outdoor cat",
+            "loves to climb",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 14,
+        "features": [
+            "lazy",
+            "curious",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 0,
+        "features": [
+            "indoor cat",
+            "lap cat",
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 3,
+        "features": [
+            "hypoallergenic",
+            "loves water",
+            "short hair",
+            "requires grooming",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 4,
+        "features": [
+            "loves to climb",
+            "plays fetch",
+            "outdoor cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Smokey Whiskers",
+        "age": 5,
+        "features": [
+            "loves water",
+            "good with kids",
+            "indoor cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 3,
+        "features": [
+            "scratches furniture",
+            "follows owner",
+            "good with kids",
+            "curious"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 1,
+        "features": [
+            "long hair",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Ginger Eyes",
+        "age": 20,
+        "features": [
+            "long hair",
+            "lazy",
+            "hates being alone",
+            "good with kids",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 13,
+        "features": [
+            "loves water",
+            "mischievous",
+            "good with kids",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 15,
+        "features": [
+            "sociable with other pets",
+            "energetic",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 7,
+        "features": [
+            "follows owner",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 14,
+        "features": [
+            "lap cat",
+            "loves water",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 16,
+        "features": [
+            "mischievous",
+            "nocturnal",
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 2,
+        "features": [
+            "energetic",
+            "hypoallergenic",
+            "outdoor cat",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 14,
+        "features": [
+            "loves water",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 13,
+        "features": [
+            "sociable with other pets",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 18,
+        "features": [
+            "follows owner",
+            "energetic",
+            "hates being alone",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 20,
+        "features": [
+            "hates being alone",
+            "mischievous",
+            "requires grooming",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 0,
+        "features": [
+            "lazy",
+            "indoor cat",
+            "loves to climb",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 4,
+        "features": [
+            "hypoallergenic",
+            "plays fetch",
+            "scratches furniture",
+            "requires grooming",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 0,
+        "features": [
+            "outdoor cat",
+            "lap cat",
+            "short hair",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 7,
+        "features": [
+            "hates being alone",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 4,
+        "features": [
+            "long hair",
+            "sociable with other pets",
+            "lazy",
+            "energetic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Ginger Eyes",
+        "age": 9,
+        "features": [
+            "hates being alone",
+            "requires grooming",
+            "energetic",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Whiskers",
+        "age": 10,
+        "features": [
+            "lap cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 13,
+        "features": [
+            "lap cat",
+            "loves water",
+            "hates being alone",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 11,
+        "features": [
+            "sociable with other pets",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 6,
+        "features": [
+            "indoor cat",
+            "lazy",
+            "nocturnal",
+            "long hair",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 8,
+        "features": [
+            "long hair",
+            "lap cat",
+            "requires grooming",
+            "mischievous",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Shadow Whiskers",
+        "age": 12,
+        "features": [
+            "good with kids",
+            "hypoallergenic",
+            "loves water",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 14,
+        "features": [
+            "follows owner",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Eyes",
+        "age": 15,
+        "features": [
+            "requires grooming",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Luna Paws",
+        "age": 18,
+        "features": [
+            "outdoor cat",
+            "scratches furniture",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Purr",
+        "age": 4,
+        "features": [
+            "plays fetch",
+            "energetic",
+            "loves water",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 17,
+        "features": [
+            "follows owner",
+            "sociable with other pets",
+            "lazy",
+            "mischievous",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 14,
+        "features": [
+            "curious",
+            "sociable with other pets",
+            "lap cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 13,
+        "features": [
+            "lazy",
+            "indoor cat",
+            "scratches furniture",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 5,
+        "features": [
+            "good with kids",
+            "short hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Coco Purr",
+        "age": 9,
+        "features": [
+            "loves to climb",
+            "indoor cat",
+            "short hair",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 6,
+        "features": [
+            "long hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 5,
+        "features": [
+            "plays fetch",
+            "indoor cat",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 5,
+        "features": [
+            "hypoallergenic",
+            "energetic",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 0,
+        "features": [
+            "sociable with other pets",
+            "follows owner",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 8,
+        "features": [
+            "nocturnal",
+            "curious",
+            "long hair",
+            "energetic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 11,
+        "features": [
+            "energetic",
+            "follows owner",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 17,
+        "features": [
+            "follows owner",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Luna Ears",
+        "age": 17,
+        "features": [
+            "outdoor cat",
+            "requires grooming",
+            "good with kids",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 11,
+        "features": [
+            "nocturnal",
+            "long hair",
+            "loves to climb",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 4,
+        "features": [
+            "hates being alone",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 6,
+        "features": [
+            "requires grooming",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 18,
+        "features": [
+            "sociable with other pets",
+            "hates being alone",
+            "plays fetch",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 15,
+        "features": [
+            "sociable with other pets",
+            "curious"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 15,
+        "features": [
+            "plays fetch",
+            "short hair",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 6,
+        "features": [
+            "mischievous",
+            "lap cat",
+            "short hair",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 19,
+        "features": [
+            "indoor cat",
+            "short hair",
+            "nocturnal",
+            "loves water",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 9,
+        "features": [
+            "lap cat",
+            "curious",
+            "lazy",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 20,
+        "features": [
+            "plays fetch",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 20,
+        "features": [
+            "long hair",
+            "short hair",
+            "sociable with other pets",
+            "plays fetch",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 18,
+        "features": [
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 0,
+        "features": [
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 0,
+        "features": [
+            "loves to climb",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 16,
+        "features": [
+            "good with kids",
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 17,
+        "features": [
+            "requires grooming",
+            "sociable with other pets",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 12,
+        "features": [
+            "hypoallergenic",
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 13,
+        "features": [
+            "scratches furniture",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 4,
+        "features": [
+            "hypoallergenic",
+            "scratches furniture",
+            "outdoor cat",
+            "indoor cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 19,
+        "features": [
+            "hates being alone",
+            "long hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 16,
+        "features": [
+            "indoor cat",
+            "energetic",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Fur",
+        "age": 1,
+        "features": [
+            "scratches furniture",
+            "long hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 20,
+        "features": [
+            "follows owner",
+            "short hair",
+            "curious",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 6,
+        "features": [
+            "mischievous",
+            "loves to climb",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 11,
+        "features": [
+            "sociable with other pets",
+            "hypoallergenic",
+            "lap cat",
+            "indoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 9,
+        "features": [
+            "indoor cat",
+            "loves to climb",
+            "lazy",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 11,
+        "features": [
+            "loves water",
+            "short hair",
+            "requires grooming",
+            "indoor cat",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 17,
+        "features": [
+            "loves to climb",
+            "outdoor cat",
+            "follows owner",
+            "hypoallergenic",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Smokey Whiskers",
+        "age": 4,
+        "features": [
+            "plays fetch",
+            "requires grooming",
+            "hates being alone",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 0,
+        "features": [
+            "long hair",
+            "good with kids",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 7,
+        "features": [
+            "energetic",
+            "nocturnal",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 19,
+        "features": [
+            "indoor cat",
+            "mischievous",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 6,
+        "features": [
+            "energetic",
+            "outdoor cat",
+            "lazy",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Tiger Nose",
+        "age": 10,
+        "features": [
+            "hates being alone",
+            "loves to climb",
+            "lap cat",
+            "loves water",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 14,
+        "features": [
+            "sociable with other pets",
+            "loves to climb",
+            "good with kids",
+            "nocturnal",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Misty Paws",
+        "age": 15,
+        "features": [
+            "sociable with other pets",
+            "curious",
+            "loves to climb",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 2,
+        "features": [
+            "mischievous",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 5,
+        "features": [
+            "hypoallergenic",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Luna Ears",
+        "age": 17,
+        "features": [
+            "good with kids",
+            "curious",
+            "loves water",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 13,
+        "features": [
+            "mischievous",
+            "outdoor cat",
+            "loves water",
+            "curious",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 8,
+        "features": [
+            "loves water",
+            "lap cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 17,
+        "features": [
+            "nocturnal",
+            "sociable with other pets",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Claws",
+        "age": 15,
+        "features": [
+            "curious",
+            "follows owner",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 17,
+        "features": [
+            "plays fetch",
+            "curious"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 2,
+        "features": [
+            "nocturnal",
+            "hates being alone",
+            "outdoor cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 20,
+        "features": [
+            "hypoallergenic",
+            "curious",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 19,
+        "features": [
+            "hypoallergenic",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 2,
+        "features": [
+            "good with kids",
+            "follows owner",
+            "loves water",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 19,
+        "features": [
+            "plays fetch",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 14,
+        "features": [
+            "requires grooming",
+            "scratches furniture",
+            "follows owner",
+            "mischievous",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 2,
+        "features": [
+            "mischievous",
+            "nocturnal",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Fur",
+        "age": 2,
+        "features": [
+            "hypoallergenic",
+            "indoor cat",
+            "good with kids",
+            "loves water",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 19,
+        "features": [
+            "outdoor cat",
+            "sociable with other pets",
+            "loves to climb",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 15,
+        "features": [
+            "follows owner",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 5,
+        "features": [
+            "hates being alone",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 2,
+        "features": [
+            "curious",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 3,
+        "features": [
+            "nocturnal",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 9,
+        "features": [
+            "nocturnal",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Fur",
+        "age": 16,
+        "features": [
+            "energetic",
+            "short hair",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 15,
+        "features": [
+            "hypoallergenic",
+            "hates being alone",
+            "follows owner",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 20,
+        "features": [
+            "loves water",
+            "short hair",
+            "good with kids",
+            "hypoallergenic",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Tiger Fur",
+        "age": 6,
+        "features": [
+            "lazy",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 1,
+        "features": [
+            "curious",
+            "outdoor cat",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 9,
+        "features": [
+            "follows owner",
+            "mischievous",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 0,
+        "features": [
+            "plays fetch",
+            "lazy",
+            "mischievous",
+            "good with kids",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 3,
+        "features": [
+            "long hair",
+            "curious",
+            "outdoor cat",
+            "requires grooming",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 5,
+        "features": [
+            "good with kids",
+            "hypoallergenic",
+            "loves to climb",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 14,
+        "features": [
+            "energetic",
+            "loves to climb",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 16,
+        "features": [
+            "plays fetch",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 3,
+        "features": [
+            "good with kids",
+            "follows owner",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 18,
+        "features": [
+            "curious",
+            "indoor cat",
+            "loves to climb",
+            "short hair",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 10,
+        "features": [
+            "loves water",
+            "plays fetch",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 6,
+        "features": [
+            "short hair",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 1,
+        "features": [
+            "indoor cat",
+            "energetic",
+            "long hair",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Whiskers",
+        "age": 16,
+        "features": [
+            "indoor cat",
+            "lazy",
+            "lap cat",
+            "scratches furniture",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Coco Paws",
+        "age": 16,
+        "features": [
+            "outdoor cat",
+            "sociable with other pets",
+            "lap cat",
+            "loves to climb",
+            "curious"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 15,
+        "features": [
+            "outdoor cat",
+            "hypoallergenic",
+            "energetic",
+            "loves to climb",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 7,
+        "features": [
+            "curious",
+            "lazy",
+            "sociable with other pets",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Smokey Ears",
+        "age": 7,
+        "features": [
+            "sociable with other pets",
+            "lap cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 18,
+        "features": [
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 14,
+        "features": [
+            "follows owner",
+            "lap cat",
+            "plays fetch",
+            "lazy",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 0,
+        "features": [
+            "nocturnal",
+            "lap cat",
+            "loves water",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 18,
+        "features": [
+            "short hair",
+            "nocturnal",
+            "energetic",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 11,
+        "features": [
+            "requires grooming",
+            "good with kids",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 20,
+        "features": [
+            "loves water",
+            "lazy",
+            "hates being alone",
+            "scratches furniture",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 16,
+        "features": [
+            "hypoallergenic",
+            "requires grooming",
+            "outdoor cat",
+            "follows owner",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 19,
+        "features": [
+            "plays fetch",
+            "loves to climb",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 17,
+        "features": [
+            "plays fetch",
+            "mischievous",
+            "loves to climb",
+            "scratches furniture",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 18,
+        "features": [
+            "outdoor cat",
+            "long hair",
+            "good with kids",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 19,
+        "features": [
+            "requires grooming",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 11,
+        "features": [
+            "plays fetch",
+            "lap cat",
+            "loves water",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 10,
+        "features": [
+            "loves to climb",
+            "energetic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 1,
+        "features": [
+            "nocturnal",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 5,
+        "features": [
+            "lazy",
+            "hates being alone",
+            "scratches furniture",
+            "nocturnal",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 13,
+        "features": [
+            "indoor cat",
+            "nocturnal",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Smokey Fur",
+        "age": 15,
+        "features": [
+            "good with kids",
+            "curious",
+            "follows owner",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 7,
+        "features": [
+            "scratches furniture",
+            "long hair",
+            "loves water",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 12,
+        "features": [
+            "requires grooming",
+            "short hair",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Ears",
+        "age": 9,
+        "features": [
+            "nocturnal",
+            "mischievous",
+            "lazy",
+            "hates being alone",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Whiskers",
+        "age": 14,
+        "features": [
+            "short hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 8,
+        "features": [
+            "lazy",
+            "good with kids",
+            "scratches furniture",
+            "plays fetch",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 11,
+        "features": [
+            "hates being alone",
+            "lap cat",
+            "loves to climb",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Shadow Whiskers",
+        "age": 7,
+        "features": [
+            "follows owner",
+            "hates being alone",
+            "mischievous",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Coco Whiskers",
+        "age": 5,
+        "features": [
+            "hypoallergenic",
+            "hates being alone",
+            "lazy",
+            "loves water",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 16,
+        "features": [
+            "good with kids",
+            "mischievous",
+            "sociable with other pets",
+            "loves to climb",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 5,
+        "features": [
+            "curious",
+            "lazy",
+            "good with kids",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 0,
+        "features": [
+            "loves to climb",
+            "lazy",
+            "lap cat",
+            "scratches furniture",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 13,
+        "features": [
+            "lap cat",
+            "hypoallergenic",
+            "long hair",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 5,
+        "features": [
+            "long hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 15,
+        "features": [
+            "nocturnal",
+            "loves to climb",
+            "indoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 7,
+        "features": [
+            "requires grooming",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 19,
+        "features": [
+            "long hair",
+            "plays fetch",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 4,
+        "features": [
+            "short hair",
+            "sociable with other pets",
+            "nocturnal",
+            "curious"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 17,
+        "features": [
+            "hates being alone",
+            "sociable with other pets",
+            "plays fetch",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 16,
+        "features": [
+            "energetic",
+            "short hair",
+            "loves to climb",
+            "curious"
+        ]
+    },
+    {
+        "name": "Ginger Eyes",
+        "age": 11,
+        "features": [
+            "loves water",
+            "good with kids",
+            "energetic",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 8,
+        "features": [
+            "curious",
+            "hates being alone",
+            "indoor cat",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 14,
+        "features": [
+            "short hair",
+            "outdoor cat",
+            "nocturnal",
+            "good with kids",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 18,
+        "features": [
+            "curious",
+            "outdoor cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 5,
+        "features": [
+            "outdoor cat",
+            "good with kids",
+            "nocturnal",
+            "plays fetch",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Whiskers",
+        "age": 3,
+        "features": [
+            "loves to climb",
+            "indoor cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 20,
+        "features": [
+            "hypoallergenic",
+            "hates being alone",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Ginger Purr",
+        "age": 15,
+        "features": [
+            "hypoallergenic",
+            "mischievous",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 13,
+        "features": [
+            "hates being alone",
+            "indoor cat",
+            "follows owner",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 0,
+        "features": [
+            "short hair",
+            "mischievous",
+            "hates being alone",
+            "loves to climb",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 6,
+        "features": [
+            "sociable with other pets",
+            "hates being alone",
+            "requires grooming",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 18,
+        "features": [
+            "requires grooming",
+            "indoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 17,
+        "features": [
+            "outdoor cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 16,
+        "features": [
+            "plays fetch",
+            "curious",
+            "nocturnal",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Fur",
+        "age": 3,
+        "features": [
+            "nocturnal",
+            "long hair",
+            "scratches furniture",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 2,
+        "features": [
+            "loves to climb",
+            "curious",
+            "indoor cat",
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 13,
+        "features": [
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 12,
+        "features": [
+            "lap cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Whiskers",
+        "age": 1,
+        "features": [
+            "hates being alone",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 2,
+        "features": [
+            "short hair",
+            "sociable with other pets",
+            "scratches furniture",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 20,
+        "features": [
+            "requires grooming",
+            "curious"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 15,
+        "features": [
+            "long hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 11,
+        "features": [
+            "hypoallergenic",
+            "lazy",
+            "nocturnal",
+            "indoor cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 0,
+        "features": [
+            "good with kids",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Ginger Whiskers",
+        "age": 8,
+        "features": [
+            "curious",
+            "loves water",
+            "follows owner",
+            "short hair",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 19,
+        "features": [
+            "outdoor cat",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 12,
+        "features": [
+            "mischievous",
+            "hypoallergenic",
+            "follows owner",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 15,
+        "features": [
+            "indoor cat",
+            "outdoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 15,
+        "features": [
+            "outdoor cat",
+            "indoor cat",
+            "plays fetch",
+            "short hair",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 14,
+        "features": [
+            "hates being alone",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 12,
+        "features": [
+            "requires grooming",
+            "short hair",
+            "follows owner",
+            "hypoallergenic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 0,
+        "features": [
+            "scratches furniture",
+            "short hair",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 1,
+        "features": [
+            "good with kids",
+            "loves to climb",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 5,
+        "features": [
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 12,
+        "features": [
+            "loves water",
+            "hates being alone",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 16,
+        "features": [
+            "indoor cat",
+            "short hair",
+            "curious"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 8,
+        "features": [
+            "good with kids",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 6,
+        "features": [
+            "requires grooming",
+            "outdoor cat",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Ginger Eyes",
+        "age": 1,
+        "features": [
+            "follows owner",
+            "lazy",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 19,
+        "features": [
+            "loves water",
+            "hypoallergenic",
+            "lazy",
+            "short hair",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 3,
+        "features": [
+            "sociable with other pets",
+            "good with kids",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 10,
+        "features": [
+            "lazy",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 17,
+        "features": [
+            "good with kids",
+            "requires grooming",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 11,
+        "features": [
+            "hypoallergenic",
+            "hates being alone",
+            "follows owner",
+            "good with kids",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 13,
+        "features": [
+            "outdoor cat",
+            "indoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 4,
+        "features": [
+            "scratches furniture",
+            "curious",
+            "requires grooming",
+            "long hair",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 9,
+        "features": [
+            "indoor cat",
+            "hypoallergenic",
+            "good with kids",
+            "curious"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 11,
+        "features": [
+            "indoor cat",
+            "requires grooming",
+            "mischievous",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 13,
+        "features": [
+            "scratches furniture",
+            "good with kids",
+            "outdoor cat",
+            "requires grooming",
+            "curious"
+        ]
+    },
+    {
+        "name": "Luna Paws",
+        "age": 1,
+        "features": [
+            "hates being alone",
+            "nocturnal",
+            "sociable with other pets",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 13,
+        "features": [
+            "loves to climb",
+            "short hair",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 8,
+        "features": [
+            "indoor cat",
+            "loves water",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 2,
+        "features": [
+            "scratches furniture",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 9,
+        "features": [
+            "long hair",
+            "scratches furniture",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 10,
+        "features": [
+            "scratches furniture",
+            "short hair",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 15,
+        "features": [
+            "hates being alone",
+            "short hair",
+            "follows owner",
+            "nocturnal",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 11,
+        "features": [
+            "nocturnal",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 2,
+        "features": [
+            "mischievous",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 14,
+        "features": [
+            "short hair",
+            "nocturnal",
+            "curious",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 13,
+        "features": [
+            "follows owner",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 12,
+        "features": [
+            "plays fetch",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 13,
+        "features": [
+            "good with kids",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 13,
+        "features": [
+            "indoor cat",
+            "long hair",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 13,
+        "features": [
+            "long hair",
+            "requires grooming",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 0,
+        "features": [
+            "sociable with other pets",
+            "energetic",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 11,
+        "features": [
+            "loves water",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 14,
+        "features": [
+            "scratches furniture",
+            "indoor cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 5,
+        "features": [
+            "requires grooming",
+            "outdoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 11,
+        "features": [
+            "mischievous",
+            "good with kids",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 16,
+        "features": [
+            "energetic",
+            "scratches furniture",
+            "follows owner",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 14,
+        "features": [
+            "short hair",
+            "indoor cat",
+            "follows owner",
+            "curious",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 16,
+        "features": [
+            "follows owner",
+            "long hair",
+            "good with kids",
+            "energetic",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 18,
+        "features": [
+            "follows owner",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 6,
+        "features": [
+            "loves to climb",
+            "outdoor cat",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 2,
+        "features": [
+            "short hair",
+            "mischievous",
+            "energetic",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 7,
+        "features": [
+            "indoor cat",
+            "plays fetch",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Ginger Eyes",
+        "age": 12,
+        "features": [
+            "hates being alone",
+            "hypoallergenic",
+            "nocturnal",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 7,
+        "features": [
+            "energetic",
+            "lap cat",
+            "requires grooming",
+            "curious",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 8,
+        "features": [
+            "follows owner",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 17,
+        "features": [
+            "indoor cat",
+            "sociable with other pets",
+            "mischievous",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 2,
+        "features": [
+            "indoor cat",
+            "short hair",
+            "sociable with other pets",
+            "follows owner",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 12,
+        "features": [
+            "energetic",
+            "lazy",
+            "hypoallergenic",
+            "curious"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 18,
+        "features": [
+            "indoor cat",
+            "long hair",
+            "scratches furniture",
+            "sociable with other pets",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 16,
+        "features": [
+            "good with kids",
+            "loves water",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 3,
+        "features": [
+            "lazy",
+            "energetic",
+            "hates being alone",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 4,
+        "features": [
+            "lazy",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 1,
+        "features": [
+            "nocturnal",
+            "curious",
+            "lap cat",
+            "requires grooming",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 3,
+        "features": [
+            "curious",
+            "requires grooming",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 5,
+        "features": [
+            "scratches furniture",
+            "good with kids",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Shadow Whiskers",
+        "age": 0,
+        "features": [
+            "short hair",
+            "follows owner",
+            "loves water",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 0,
+        "features": [
+            "good with kids",
+            "outdoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 1,
+        "features": [
+            "scratches furniture",
+            "requires grooming",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 6,
+        "features": [
+            "loves to climb",
+            "nocturnal",
+            "hates being alone",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 14,
+        "features": [
+            "requires grooming",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 15,
+        "features": [
+            "follows owner",
+            "energetic",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 11,
+        "features": [
+            "indoor cat",
+            "energetic",
+            "good with kids",
+            "follows owner",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 11,
+        "features": [
+            "lazy",
+            "indoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 14,
+        "features": [
+            "energetic",
+            "hypoallergenic",
+            "hates being alone",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Oreo Nose",
+        "age": 14,
+        "features": [
+            "indoor cat",
+            "outdoor cat",
+            "sociable with other pets",
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 17,
+        "features": [
+            "hypoallergenic",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 18,
+        "features": [
+            "short hair",
+            "requires grooming",
+            "indoor cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 14,
+        "features": [
+            "indoor cat",
+            "loves water",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 15,
+        "features": [
+            "loves water",
+            "hates being alone",
+            "nocturnal",
+            "long hair",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 20,
+        "features": [
+            "good with kids",
+            "lap cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 7,
+        "features": [
+            "lap cat",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Ginger Claws",
+        "age": 9,
+        "features": [
+            "indoor cat",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 12,
+        "features": [
+            "scratches furniture",
+            "hates being alone",
+            "short hair",
+            "long hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 20,
+        "features": [
+            "sociable with other pets",
+            "loves water",
+            "lap cat",
+            "indoor cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 7,
+        "features": [
+            "outdoor cat",
+            "long hair",
+            "curious"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 9,
+        "features": [
+            "energetic",
+            "hypoallergenic",
+            "scratches furniture",
+            "lazy",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 8,
+        "features": [
+            "indoor cat",
+            "outdoor cat",
+            "lazy",
+            "good with kids",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Ginger Purr",
+        "age": 5,
+        "features": [
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 14,
+        "features": [
+            "long hair",
+            "curious",
+            "plays fetch",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 14,
+        "features": [
+            "hates being alone",
+            "sociable with other pets",
+            "long hair",
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 20,
+        "features": [
+            "good with kids",
+            "hates being alone",
+            "outdoor cat",
+            "mischievous",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 7,
+        "features": [
+            "scratches furniture",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 2,
+        "features": [
+            "requires grooming",
+            "mischievous",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 17,
+        "features": [
+            "short hair",
+            "lazy",
+            "plays fetch",
+            "lap cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 1,
+        "features": [
+            "lap cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Coco Purr",
+        "age": 16,
+        "features": [
+            "hates being alone",
+            "outdoor cat",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Nose",
+        "age": 12,
+        "features": [
+            "hypoallergenic",
+            "sociable with other pets",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Tiger Nose",
+        "age": 10,
+        "features": [
+            "energetic",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 15,
+        "features": [
+            "curious",
+            "energetic",
+            "sociable with other pets",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 18,
+        "features": [
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 15,
+        "features": [
+            "lap cat",
+            "curious",
+            "short hair",
+            "plays fetch",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 17,
+        "features": [
+            "loves water",
+            "curious",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 5,
+        "features": [
+            "long hair",
+            "energetic",
+            "outdoor cat",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Luna Ears",
+        "age": 14,
+        "features": [
+            "requires grooming",
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 19,
+        "features": [
+            "plays fetch",
+            "short hair",
+            "loves water",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 7,
+        "features": [
+            "follows owner",
+            "plays fetch",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 18,
+        "features": [
+            "scratches furniture",
+            "long hair",
+            "indoor cat",
+            "sociable with other pets",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 11,
+        "features": [
+            "outdoor cat",
+            "requires grooming",
+            "scratches furniture",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 18,
+        "features": [
+            "mischievous",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 3,
+        "features": [
+            "curious",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 17,
+        "features": [
+            "hypoallergenic",
+            "mischievous",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 0,
+        "features": [
+            "indoor cat",
+            "short hair",
+            "nocturnal",
+            "hates being alone",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 16,
+        "features": [
+            "lazy",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 14,
+        "features": [
+            "energetic",
+            "lap cat",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 17,
+        "features": [
+            "plays fetch",
+            "hypoallergenic",
+            "energetic",
+            "curious",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 15,
+        "features": [
+            "requires grooming",
+            "lazy",
+            "loves to climb",
+            "outdoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Smokey Ears",
+        "age": 2,
+        "features": [
+            "sociable with other pets",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 11,
+        "features": [
+            "scratches furniture",
+            "curious",
+            "short hair",
+            "sociable with other pets",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 20,
+        "features": [
+            "loves water",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 20,
+        "features": [
+            "hypoallergenic",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 13,
+        "features": [
+            "loves water",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 10,
+        "features": [
+            "long hair",
+            "hypoallergenic",
+            "nocturnal",
+            "loves to climb",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 18,
+        "features": [
+            "follows owner",
+            "loves to climb",
+            "scratches furniture",
+            "hates being alone",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 3,
+        "features": [
+            "lazy",
+            "sociable with other pets",
+            "requires grooming",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 11,
+        "features": [
+            "good with kids",
+            "hypoallergenic",
+            "scratches furniture",
+            "short hair",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 4,
+        "features": [
+            "indoor cat",
+            "scratches furniture",
+            "hates being alone",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 0,
+        "features": [
+            "lazy",
+            "follows owner",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 10,
+        "features": [
+            "long hair",
+            "energetic",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Ginger Purr",
+        "age": 5,
+        "features": [
+            "indoor cat",
+            "follows owner",
+            "sociable with other pets",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 6,
+        "features": [
+            "energetic",
+            "scratches furniture",
+            "loves to climb",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 20,
+        "features": [
+            "good with kids",
+            "lazy",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 5,
+        "features": [
+            "lap cat",
+            "outdoor cat",
+            "requires grooming",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 11,
+        "features": [
+            "curious",
+            "sociable with other pets",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 2,
+        "features": [
+            "energetic",
+            "plays fetch",
+            "lap cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 12,
+        "features": [
+            "scratches furniture",
+            "mischievous",
+            "energetic",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 16,
+        "features": [
+            "loves water",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 6,
+        "features": [
+            "lap cat",
+            "mischievous",
+            "plays fetch",
+            "hypoallergenic",
+            "curious"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 18,
+        "features": [
+            "nocturnal",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 13,
+        "features": [
+            "sociable with other pets",
+            "curious",
+            "scratches furniture",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 20,
+        "features": [
+            "sociable with other pets",
+            "long hair",
+            "lap cat",
+            "short hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 4,
+        "features": [
+            "indoor cat",
+            "plays fetch",
+            "hypoallergenic",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 6,
+        "features": [
+            "nocturnal",
+            "lap cat",
+            "follows owner",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 20,
+        "features": [
+            "hates being alone",
+            "mischievous",
+            "curious",
+            "lap cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 6,
+        "features": [
+            "curious",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Tiger Fur",
+        "age": 9,
+        "features": [
+            "short hair",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Shadow Whiskers",
+        "age": 16,
+        "features": [
+            "loves water",
+            "lazy",
+            "nocturnal",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 4,
+        "features": [
+            "follows owner",
+            "good with kids",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Fluffy Eyes",
+        "age": 4,
+        "features": [
+            "curious",
+            "loves to climb",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 16,
+        "features": [
+            "loves to climb",
+            "plays fetch",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Fur",
+        "age": 10,
+        "features": [
+            "energetic",
+            "good with kids",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 5,
+        "features": [
+            "mischievous",
+            "long hair",
+            "follows owner",
+            "sociable with other pets",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 11,
+        "features": [
+            "hates being alone",
+            "short hair",
+            "outdoor cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 6,
+        "features": [
+            "loves water",
+            "loves to climb",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 15,
+        "features": [
+            "hypoallergenic",
+            "requires grooming",
+            "plays fetch",
+            "lap cat",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 12,
+        "features": [
+            "hates being alone",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 7,
+        "features": [
+            "energetic",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 8,
+        "features": [
+            "short hair",
+            "long hair",
+            "hates being alone",
+            "good with kids",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 9,
+        "features": [
+            "loves to climb",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 20,
+        "features": [
+            "curious",
+            "indoor cat",
+            "long hair",
+            "mischievous",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 10,
+        "features": [
+            "loves to climb",
+            "energetic",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 0,
+        "features": [
+            "energetic",
+            "curious"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 4,
+        "features": [
+            "short hair",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 2,
+        "features": [
+            "lap cat",
+            "requires grooming",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 8,
+        "features": [
+            "loves to climb",
+            "hates being alone",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 5,
+        "features": [
+            "loves water",
+            "scratches furniture",
+            "lap cat",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 5,
+        "features": [
+            "nocturnal",
+            "long hair",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 5,
+        "features": [
+            "indoor cat",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Fluffy Nose",
+        "age": 14,
+        "features": [
+            "outdoor cat",
+            "lazy",
+            "good with kids",
+            "requires grooming",
+            "curious"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 11,
+        "features": [
+            "scratches furniture",
+            "follows owner",
+            "sociable with other pets",
+            "requires grooming",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 3,
+        "features": [
+            "long hair",
+            "scratches furniture",
+            "mischievous",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Smokey Whiskers",
+        "age": 13,
+        "features": [
+            "good with kids",
+            "follows owner",
+            "hypoallergenic",
+            "curious",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 16,
+        "features": [
+            "loves water",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 0,
+        "features": [
+            "sociable with other pets",
+            "requires grooming",
+            "curious"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 12,
+        "features": [
+            "hypoallergenic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 2,
+        "features": [
+            "indoor cat",
+            "curious"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 19,
+        "features": [
+            "hypoallergenic",
+            "requires grooming",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 8,
+        "features": [
+            "indoor cat",
+            "sociable with other pets",
+            "loves to climb",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Purr",
+        "age": 15,
+        "features": [
+            "loves to climb",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Luna Paws",
+        "age": 14,
+        "features": [
+            "good with kids",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 5,
+        "features": [
+            "nocturnal",
+            "follows owner",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 17,
+        "features": [
+            "short hair",
+            "plays fetch",
+            "good with kids",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 16,
+        "features": [
+            "good with kids",
+            "plays fetch",
+            "curious",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 10,
+        "features": [
+            "hates being alone",
+            "indoor cat",
+            "loves water",
+            "loves to climb",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Smokey Claws",
+        "age": 3,
+        "features": [
+            "requires grooming",
+            "indoor cat",
+            "hypoallergenic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 8,
+        "features": [
+            "long hair",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Claws",
+        "age": 17,
+        "features": [
+            "lazy",
+            "hypoallergenic",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 19,
+        "features": [
+            "outdoor cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 7,
+        "features": [
+            "mischievous",
+            "follows owner",
+            "nocturnal",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 17,
+        "features": [
+            "short hair",
+            "hates being alone",
+            "good with kids",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 16,
+        "features": [
+            "scratches furniture",
+            "hypoallergenic",
+            "indoor cat",
+            "follows owner",
+            "curious"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 9,
+        "features": [
+            "hypoallergenic",
+            "hates being alone",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 14,
+        "features": [
+            "hates being alone",
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 4,
+        "features": [
+            "sociable with other pets",
+            "long hair",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 5,
+        "features": [
+            "short hair",
+            "plays fetch",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Luna Fur",
+        "age": 20,
+        "features": [
+            "lazy",
+            "energetic",
+            "sociable with other pets",
+            "good with kids",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 12,
+        "features": [
+            "loves to climb",
+            "short hair",
+            "scratches furniture",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 10,
+        "features": [
+            "plays fetch",
+            "scratches furniture",
+            "loves water",
+            "mischievous",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Misty Whiskers",
+        "age": 10,
+        "features": [
+            "long hair",
+            "requires grooming",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 18,
+        "features": [
+            "nocturnal",
+            "hypoallergenic",
+            "requires grooming",
+            "outdoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 20,
+        "features": [
+            "loves to climb",
+            "sociable with other pets",
+            "lazy",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Purr",
+        "age": 17,
+        "features": [
+            "outdoor cat",
+            "loves water",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 6,
+        "features": [
+            "requires grooming",
+            "energetic",
+            "sociable with other pets",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 15,
+        "features": [
+            "lazy",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 6,
+        "features": [
+            "hates being alone",
+            "indoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Fluffy Meow",
+        "age": 4,
+        "features": [
+            "long hair",
+            "mischievous",
+            "good with kids",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 9,
+        "features": [
+            "energetic",
+            "long hair",
+            "scratches furniture",
+            "short hair",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 18,
+        "features": [
+            "short hair",
+            "scratches furniture",
+            "hypoallergenic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 4,
+        "features": [
+            "loves to climb",
+            "hypoallergenic",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Fluffy Nose",
+        "age": 7,
+        "features": [
+            "sociable with other pets",
+            "mischievous",
+            "curious"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 7,
+        "features": [
+            "sociable with other pets",
+            "scratches furniture",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 9,
+        "features": [
+            "outdoor cat",
+            "good with kids",
+            "nocturnal",
+            "loves to climb",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 5,
+        "features": [
+            "curious",
+            "outdoor cat",
+            "sociable with other pets",
+            "long hair",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 10,
+        "features": [
+            "hates being alone",
+            "short hair",
+            "nocturnal",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 2,
+        "features": [
+            "lazy",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 9,
+        "features": [
+            "hypoallergenic",
+            "loves to climb",
+            "requires grooming",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 2,
+        "features": [
+            "scratches furniture",
+            "sociable with other pets",
+            "nocturnal",
+            "good with kids",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 1,
+        "features": [
+            "scratches furniture",
+            "outdoor cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 4,
+        "features": [
+            "loves water",
+            "indoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 14,
+        "features": [
+            "plays fetch",
+            "short hair",
+            "indoor cat",
+            "good with kids",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 0,
+        "features": [
+            "long hair",
+            "energetic",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 4,
+        "features": [
+            "loves to climb",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 3,
+        "features": [
+            "loves water",
+            "mischievous",
+            "long hair",
+            "curious"
+        ]
+    },
+    {
+        "name": "Coco Fur",
+        "age": 2,
+        "features": [
+            "short hair",
+            "good with kids",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 8,
+        "features": [
+            "hypoallergenic",
+            "lap cat",
+            "indoor cat",
+            "curious",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 7,
+        "features": [
+            "lap cat",
+            "scratches furniture",
+            "mischievous",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 9,
+        "features": [
+            "hates being alone",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 2,
+        "features": [
+            "hypoallergenic",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Fluffy Claws",
+        "age": 1,
+        "features": [
+            "scratches furniture",
+            "curious",
+            "loves to climb",
+            "follows owner",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 14,
+        "features": [
+            "outdoor cat",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 9,
+        "features": [
+            "short hair",
+            "good with kids",
+            "requires grooming",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 11,
+        "features": [
+            "outdoor cat",
+            "good with kids",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 11,
+        "features": [
+            "scratches furniture",
+            "outdoor cat",
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 10,
+        "features": [
+            "long hair",
+            "loves water",
+            "lazy",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 2,
+        "features": [
+            "follows owner",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Fur",
+        "age": 16,
+        "features": [
+            "outdoor cat",
+            "follows owner",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 19,
+        "features": [
+            "indoor cat",
+            "short hair",
+            "lap cat",
+            "nocturnal",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 19,
+        "features": [
+            "good with kids",
+            "curious",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Oreo Tail",
+        "age": 10,
+        "features": [
+            "loves water",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 16,
+        "features": [
+            "mischievous",
+            "nocturnal",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 12,
+        "features": [
+            "loves water",
+            "sociable with other pets",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 17,
+        "features": [
+            "lap cat",
+            "good with kids",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 3,
+        "features": [
+            "loves to climb",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 19,
+        "features": [
+            "hates being alone",
+            "short hair",
+            "lap cat",
+            "plays fetch",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 10,
+        "features": [
+            "nocturnal",
+            "mischievous",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 17,
+        "features": [
+            "hypoallergenic",
+            "long hair",
+            "lap cat",
+            "short hair",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 16,
+        "features": [
+            "curious",
+            "hates being alone",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 5,
+        "features": [
+            "good with kids",
+            "scratches furniture",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Whiskers",
+        "age": 13,
+        "features": [
+            "lap cat",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Smokey Nose",
+        "age": 19,
+        "features": [
+            "long hair",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Tiger Fur",
+        "age": 16,
+        "features": [
+            "lazy",
+            "plays fetch",
+            "good with kids",
+            "hates being alone",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 11,
+        "features": [
+            "energetic",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 0,
+        "features": [
+            "outdoor cat",
+            "hates being alone",
+            "good with kids",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 14,
+        "features": [
+            "hates being alone",
+            "sociable with other pets",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Smokey Meow",
+        "age": 14,
+        "features": [
+            "plays fetch",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 15,
+        "features": [
+            "requires grooming",
+            "follows owner",
+            "outdoor cat",
+            "hypoallergenic",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 6,
+        "features": [
+            "long hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 0,
+        "features": [
+            "hypoallergenic",
+            "sociable with other pets",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 16,
+        "features": [
+            "follows owner",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 10,
+        "features": [
+            "energetic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Fluffy Nose",
+        "age": 8,
+        "features": [
+            "nocturnal",
+            "scratches furniture",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 20,
+        "features": [
+            "curious",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Luna Paws",
+        "age": 5,
+        "features": [
+            "follows owner",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Ginger Purr",
+        "age": 2,
+        "features": [
+            "nocturnal",
+            "loves to climb",
+            "lazy",
+            "outdoor cat",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 19,
+        "features": [
+            "lap cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 20,
+        "features": [
+            "short hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 13,
+        "features": [
+            "long hair",
+            "outdoor cat",
+            "curious",
+            "hates being alone",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 7,
+        "features": [
+            "long hair",
+            "loves water",
+            "energetic",
+            "outdoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Fluffy Claws",
+        "age": 0,
+        "features": [
+            "indoor cat",
+            "loves water",
+            "good with kids",
+            "curious",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 15,
+        "features": [
+            "requires grooming",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 0,
+        "features": [
+            "requires grooming",
+            "energetic",
+            "sociable with other pets",
+            "follows owner",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Smokey Meow",
+        "age": 11,
+        "features": [
+            "lazy",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 0,
+        "features": [
+            "energetic",
+            "scratches furniture",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 20,
+        "features": [
+            "lap cat",
+            "nocturnal",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Simba Whiskers",
+        "age": 7,
+        "features": [
+            "hates being alone",
+            "indoor cat",
+            "hypoallergenic",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Claws",
+        "age": 0,
+        "features": [
+            "loves to climb",
+            "follows owner",
+            "lap cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 7,
+        "features": [
+            "energetic",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Tiger Nose",
+        "age": 3,
+        "features": [
+            "outdoor cat",
+            "good with kids",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 18,
+        "features": [
+            "sociable with other pets",
+            "scratches furniture",
+            "energetic",
+            "loves to climb",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 14,
+        "features": [
+            "lazy",
+            "short hair",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 19,
+        "features": [
+            "loves water",
+            "follows owner",
+            "lap cat",
+            "long hair",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Oreo Nose",
+        "age": 19,
+        "features": [
+            "hypoallergenic",
+            "lap cat",
+            "outdoor cat",
+            "short hair",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 14,
+        "features": [
+            "curious",
+            "loves water",
+            "lap cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 19,
+        "features": [
+            "long hair",
+            "loves to climb",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 5,
+        "features": [
+            "indoor cat",
+            "outdoor cat",
+            "long hair",
+            "curious",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 11,
+        "features": [
+            "scratches furniture",
+            "mischievous",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 8,
+        "features": [
+            "lazy",
+            "outdoor cat",
+            "good with kids",
+            "nocturnal",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 10,
+        "features": [
+            "hypoallergenic",
+            "good with kids",
+            "loves to climb",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 15,
+        "features": [
+            "hates being alone",
+            "outdoor cat",
+            "lazy",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 5,
+        "features": [
+            "outdoor cat",
+            "loves water",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 18,
+        "features": [
+            "lazy",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 19,
+        "features": [
+            "plays fetch",
+            "short hair",
+            "lap cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Tiger Whiskers",
+        "age": 18,
+        "features": [
+            "hypoallergenic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Simba Ears",
+        "age": 16,
+        "features": [
+            "follows owner",
+            "lazy",
+            "mischievous",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 19,
+        "features": [
+            "requires grooming",
+            "indoor cat",
+            "lap cat",
+            "lazy",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 16,
+        "features": [
+            "hypoallergenic",
+            "requires grooming",
+            "loves to climb",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Coco Whiskers",
+        "age": 17,
+        "features": [
+            "nocturnal",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 6,
+        "features": [
+            "sociable with other pets",
+            "good with kids",
+            "plays fetch",
+            "indoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Simba Eyes",
+        "age": 10,
+        "features": [
+            "curious",
+            "loves to climb",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Smokey Meow",
+        "age": 6,
+        "features": [
+            "long hair",
+            "good with kids",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 20,
+        "features": [
+            "scratches furniture",
+            "outdoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 19,
+        "features": [
+            "sociable with other pets",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 12,
+        "features": [
+            "lap cat",
+            "outdoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Oreo Claws",
+        "age": 20,
+        "features": [
+            "indoor cat",
+            "requires grooming",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 11,
+        "features": [
+            "indoor cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 19,
+        "features": [
+            "hypoallergenic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Fluffy Paws",
+        "age": 10,
+        "features": [
+            "follows owner",
+            "curious",
+            "long hair",
+            "scratches furniture",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 10,
+        "features": [
+            "mischievous",
+            "short hair",
+            "plays fetch",
+            "requires grooming",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 13,
+        "features": [
+            "short hair",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Oreo Purr",
+        "age": 11,
+        "features": [
+            "good with kids",
+            "loves water",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 9,
+        "features": [
+            "curious",
+            "nocturnal",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 11,
+        "features": [
+            "lap cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 6,
+        "features": [
+            "short hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Smokey Ears",
+        "age": 0,
+        "features": [
+            "long hair",
+            "plays fetch",
+            "hates being alone",
+            "indoor cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 19,
+        "features": [
+            "scratches furniture",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Fluffy Eyes",
+        "age": 20,
+        "features": [
+            "lazy",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 5,
+        "features": [
+            "loves to climb",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 10,
+        "features": [
+            "loves water",
+            "lap cat",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Coco Tail",
+        "age": 13,
+        "features": [
+            "sociable with other pets",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 10,
+        "features": [
+            "energetic",
+            "nocturnal",
+            "curious"
+        ]
+    },
+    {
+        "name": "Coco Paws",
+        "age": 0,
+        "features": [
+            "mischievous",
+            "energetic",
+            "long hair",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 17,
+        "features": [
+            "long hair",
+            "curious",
+            "hypoallergenic",
+            "mischievous",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Meow",
+        "age": 7,
+        "features": [
+            "nocturnal",
+            "curious",
+            "good with kids",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 5,
+        "features": [
+            "outdoor cat",
+            "curious",
+            "hates being alone",
+            "good with kids",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 18,
+        "features": [
+            "hypoallergenic",
+            "lazy",
+            "nocturnal",
+            "sociable with other pets",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 5,
+        "features": [
+            "requires grooming",
+            "indoor cat",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 11,
+        "features": [
+            "lazy",
+            "curious",
+            "hates being alone",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 1,
+        "features": [
+            "follows owner",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 14,
+        "features": [
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 13,
+        "features": [
+            "curious",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Shadow Nose",
+        "age": 0,
+        "features": [
+            "long hair",
+            "energetic",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 8,
+        "features": [
+            "curious",
+            "loves to climb",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 20,
+        "features": [
+            "loves water",
+            "requires grooming",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 14,
+        "features": [
+            "good with kids",
+            "energetic",
+            "short hair",
+            "sociable with other pets",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Claws",
+        "age": 8,
+        "features": [
+            "sociable with other pets",
+            "plays fetch",
+            "lap cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 6,
+        "features": [
+            "lazy",
+            "good with kids",
+            "loves to climb",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Simba Whiskers",
+        "age": 9,
+        "features": [
+            "curious",
+            "outdoor cat",
+            "good with kids",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 4,
+        "features": [
+            "plays fetch",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 3,
+        "features": [
+            "mischievous",
+            "plays fetch",
+            "hypoallergenic",
+            "short hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Fur",
+        "age": 18,
+        "features": [
+            "long hair",
+            "curious"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 0,
+        "features": [
+            "nocturnal",
+            "outdoor cat",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Misty Whiskers",
+        "age": 18,
+        "features": [
+            "plays fetch",
+            "long hair",
+            "short hair",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Ginger Eyes",
+        "age": 1,
+        "features": [
+            "outdoor cat",
+            "plays fetch",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 0,
+        "features": [
+            "long hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 5,
+        "features": [
+            "energetic",
+            "mischievous",
+            "loves water",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 20,
+        "features": [
+            "sociable with other pets",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 11,
+        "features": [
+            "sociable with other pets",
+            "nocturnal",
+            "hates being alone",
+            "hypoallergenic",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 19,
+        "features": [
+            "lap cat",
+            "mischievous",
+            "nocturnal",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 8,
+        "features": [
+            "requires grooming",
+            "outdoor cat",
+            "follows owner",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 19,
+        "features": [
+            "indoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 0,
+        "features": [
+            "lazy",
+            "loves to climb",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Whiskers",
+        "age": 9,
+        "features": [
+            "lap cat",
+            "hypoallergenic",
+            "energetic",
+            "outdoor cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 12,
+        "features": [
+            "loves water",
+            "lazy",
+            "plays fetch",
+            "lap cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Simba Meow",
+        "age": 16,
+        "features": [
+            "outdoor cat",
+            "requires grooming",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Luna Meow",
+        "age": 19,
+        "features": [
+            "follows owner",
+            "good with kids",
+            "mischievous",
+            "plays fetch",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Coco Paws",
+        "age": 17,
+        "features": [
+            "lap cat",
+            "good with kids",
+            "mischievous",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Ginger Purr",
+        "age": 18,
+        "features": [
+            "loves water",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Tiger Nose",
+        "age": 0,
+        "features": [
+            "sociable with other pets",
+            "nocturnal",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 12,
+        "features": [
+            "short hair",
+            "indoor cat",
+            "outdoor cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 3,
+        "features": [
+            "hypoallergenic",
+            "long hair",
+            "lap cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 10,
+        "features": [
+            "lap cat",
+            "lazy",
+            "sociable with other pets",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 14,
+        "features": [
+            "requires grooming",
+            "short hair",
+            "energetic",
+            "plays fetch",
+            "loves water"
+        ]
+    },
+    {
+        "name": "Coco Ears",
+        "age": 3,
+        "features": [
+            "mischievous",
+            "long hair",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 2,
+        "features": [
+            "lazy",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Fluffy Tail",
+        "age": 19,
+        "features": [
+            "good with kids",
+            "mischievous",
+            "follows owner",
+            "short hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 10,
+        "features": [
+            "short hair",
+            "nocturnal",
+            "curious"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 4,
+        "features": [
+            "requires grooming",
+            "loves to climb",
+            "scratches furniture",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 14,
+        "features": [
+            "loves water",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Misty Purr",
+        "age": 16,
+        "features": [
+            "indoor cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Simba Whiskers",
+        "age": 13,
+        "features": [
+            "follows owner",
+            "loves water",
+            "outdoor cat",
+            "indoor cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Ginger Tail",
+        "age": 11,
+        "features": [
+            "curious",
+            "requires grooming",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Luna Whiskers",
+        "age": 7,
+        "features": [
+            "follows owner",
+            "loves water",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Fluffy Claws",
+        "age": 13,
+        "features": [
+            "mischievous",
+            "indoor cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 16,
+        "features": [
+            "good with kids",
+            "follows owner",
+            "lazy",
+            "indoor cat",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Shadow Eyes",
+        "age": 12,
+        "features": [
+            "requires grooming",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 18,
+        "features": [
+            "loves to climb",
+            "curious",
+            "lap cat",
+            "nocturnal",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 0,
+        "features": [
+            "long hair",
+            "plays fetch",
+            "scratches furniture",
+            "good with kids",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Luna Eyes",
+        "age": 1,
+        "features": [
+            "loves to climb",
+            "lap cat",
+            "outdoor cat",
+            "curious",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 10,
+        "features": [
+            "short hair",
+            "lazy",
+            "lap cat",
+            "indoor cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Tiger Tail",
+        "age": 10,
+        "features": [
+            "loves to climb",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Oreo Eyes",
+        "age": 15,
+        "features": [
+            "requires grooming",
+            "energetic",
+            "good with kids",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 14,
+        "features": [
+            "requires grooming",
+            "lap cat",
+            "energetic",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Smokey Ears",
+        "age": 4,
+        "features": [
+            "plays fetch",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Misty Ears",
+        "age": 0,
+        "features": [
+            "plays fetch",
+            "outdoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 4,
+        "features": [
+            "lazy",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Smokey Fur",
+        "age": 14,
+        "features": [
+            "loves to climb",
+            "sociable with other pets",
+            "hypoallergenic",
+            "lap cat",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Smokey Fur",
+        "age": 16,
+        "features": [
+            "plays fetch",
+            "scratches furniture",
+            "indoor cat",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 8,
+        "features": [
+            "mischievous",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 12,
+        "features": [
+            "hates being alone",
+            "long hair",
+            "good with kids",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 18,
+        "features": [
+            "good with kids",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 2,
+        "features": [
+            "lap cat",
+            "mischievous",
+            "requires grooming",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 14,
+        "features": [
+            "long hair",
+            "short hair",
+            "energetic",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Whiskers",
+        "age": 2,
+        "features": [
+            "long hair",
+            "indoor cat",
+            "plays fetch",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Ginger Ears",
+        "age": 14,
+        "features": [
+            "lazy",
+            "lap cat",
+            "nocturnal",
+            "plays fetch",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Luna Nose",
+        "age": 15,
+        "features": [
+            "loves water",
+            "indoor cat",
+            "plays fetch",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 18,
+        "features": [
+            "lazy",
+            "follows owner",
+            "curious",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Fluffy Purr",
+        "age": 6,
+        "features": [
+            "hypoallergenic",
+            "lazy",
+            "lap cat",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 20,
+        "features": [
+            "lap cat",
+            "nocturnal",
+            "mischievous",
+            "long hair",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Fluffy Whiskers",
+        "age": 19,
+        "features": [
+            "short hair",
+            "indoor cat",
+            "loves water",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Tiger Eyes",
+        "age": 0,
+        "features": [
+            "loves to climb",
+            "lap cat",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 12,
+        "features": [
+            "loves water",
+            "lazy",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 18,
+        "features": [
+            "requires grooming",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Fluffy Ears",
+        "age": 17,
+        "features": [
+            "sociable with other pets",
+            "requires grooming",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Misty Whiskers",
+        "age": 14,
+        "features": [
+            "sociable with other pets",
+            "mischievous",
+            "outdoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 14,
+        "features": [
+            "energetic",
+            "requires grooming",
+            "hypoallergenic",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 2,
+        "features": [
+            "lap cat",
+            "indoor cat",
+            "mischievous",
+            "lazy",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 10,
+        "features": [
+            "good with kids",
+            "lazy",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Fluffy Nose",
+        "age": 5,
+        "features": [
+            "plays fetch",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 11,
+        "features": [
+            "good with kids",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 14,
+        "features": [
+            "curious",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Coco Claws",
+        "age": 16,
+        "features": [
+            "indoor cat",
+            "long hair",
+            "hates being alone",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Fluffy Eyes",
+        "age": 6,
+        "features": [
+            "loves water",
+            "lazy",
+            "long hair",
+            "curious"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 17,
+        "features": [
+            "scratches furniture",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 14,
+        "features": [
+            "indoor cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Shadow Tail",
+        "age": 4,
+        "features": [
+            "plays fetch",
+            "energetic",
+            "lap cat",
+            "nocturnal",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Whiskers",
+        "age": 2,
+        "features": [
+            "long hair",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 16,
+        "features": [
+            "loves water",
+            "scratches furniture",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 9,
+        "features": [
+            "loves to climb",
+            "lazy",
+            "nocturnal",
+            "curious"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 5,
+        "features": [
+            "long hair",
+            "hypoallergenic",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 11,
+        "features": [
+            "hypoallergenic",
+            "short hair",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 20,
+        "features": [
+            "follows owner",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Ginger Fur",
+        "age": 5,
+        "features": [
+            "indoor cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Misty Eyes",
+        "age": 2,
+        "features": [
+            "sociable with other pets",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 18,
+        "features": [
+            "loves to climb",
+            "indoor cat",
+            "nocturnal",
+            "outdoor cat",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 3,
+        "features": [
+            "curious",
+            "indoor cat",
+            "loves water",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Shadow Purr",
+        "age": 2,
+        "features": [
+            "indoor cat",
+            "good with kids",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Oreo Nose",
+        "age": 5,
+        "features": [
+            "follows owner",
+            "curious",
+            "mischievous",
+            "outdoor cat",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 9,
+        "features": [
+            "hypoallergenic",
+            "lap cat",
+            "lazy",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 19,
+        "features": [
+            "hates being alone",
+            "good with kids",
+            "loves to climb",
+            "curious"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 16,
+        "features": [
+            "short hair",
+            "plays fetch",
+            "lazy",
+            "loves to climb",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Fluffy Nose",
+        "age": 11,
+        "features": [
+            "sociable with other pets",
+            "loves water",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Oreo Fur",
+        "age": 6,
+        "features": [
+            "energetic",
+            "good with kids",
+            "follows owner",
+            "outdoor cat"
+        ]
+    },
+    {
+        "name": "Shadow Claws",
+        "age": 6,
+        "features": [
+            "lap cat",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Oreo Meow",
+        "age": 14,
+        "features": [
+            "short hair",
+            "plays fetch",
+            "curious"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 14,
+        "features": [
+            "good with kids",
+            "lazy",
+            "long hair",
+            "mischievous"
+        ]
+    },
+    {
+        "name": "Ginger Paws",
+        "age": 18,
+        "features": [
+            "hypoallergenic",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Ginger Nose",
+        "age": 8,
+        "features": [
+            "scratches furniture",
+            "hypoallergenic",
+            "plays fetch",
+            "hates being alone",
+            "curious"
+        ]
+    },
+    {
+        "name": "Coco Whiskers",
+        "age": 7,
+        "features": [
+            "requires grooming",
+            "plays fetch"
+        ]
+    },
+    {
+        "name": "Tiger Ears",
+        "age": 12,
+        "features": [
+            "loves to climb",
+            "hypoallergenic",
+            "sociable with other pets",
+            "long hair",
+            "lap cat"
+        ]
+    },
+    {
+        "name": "Smokey Purr",
+        "age": 6,
+        "features": [
+            "requires grooming",
+            "nocturnal",
+            "hates being alone",
+            "outdoor cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Oreo Paws",
+        "age": 3,
+        "features": [
+            "hates being alone",
+            "nocturnal",
+            "curious",
+            "loves water",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Fur",
+        "age": 17,
+        "features": [
+            "hates being alone",
+            "plays fetch",
+            "follows owner",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Coco Eyes",
+        "age": 17,
+        "features": [
+            "follows owner",
+            "scratches furniture",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Tiger Purr",
+        "age": 5,
+        "features": [
+            "nocturnal",
+            "plays fetch",
+            "curious",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Shadow Meow",
+        "age": 14,
+        "features": [
+            "short hair",
+            "loves water",
+            "long hair",
+            "curious"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 8,
+        "features": [
+            "lazy",
+            "requires grooming",
+            "nocturnal",
+            "energetic",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 3,
+        "features": [
+            "nocturnal",
+            "plays fetch",
+            "mischievous",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Tiger Claws",
+        "age": 3,
+        "features": [
+            "loves water",
+            "curious",
+            "long hair",
+            "lap cat",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Misty Paws",
+        "age": 7,
+        "features": [
+            "long hair",
+            "mischievous",
+            "outdoor cat",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 20,
+        "features": [
+            "hates being alone",
+            "curious",
+            "indoor cat",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Simba Fur",
+        "age": 7,
+        "features": [
+            "long hair",
+            "requires grooming",
+            "lazy",
+            "nocturnal"
+        ]
+    },
+    {
+        "name": "Smokey Paws",
+        "age": 18,
+        "features": [
+            "outdoor cat",
+            "long hair",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 15,
+        "features": [
+            "curious",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 16,
+        "features": [
+            "follows owner",
+            "short hair",
+            "mischievous",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Simba Tail",
+        "age": 8,
+        "features": [
+            "lazy",
+            "plays fetch",
+            "loves to climb",
+            "hypoallergenic",
+            "sociable with other pets"
+        ]
+    },
+    {
+        "name": "Luna Claws",
+        "age": 6,
+        "features": [
+            "good with kids",
+            "outdoor cat",
+            "short hair"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 20,
+        "features": [
+            "follows owner",
+            "good with kids"
+        ]
+    },
+    {
+        "name": "Shadow Ears",
+        "age": 10,
+        "features": [
+            "hates being alone",
+            "loves to climb",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Tail",
+        "age": 18,
+        "features": [
+            "curious",
+            "outdoor cat",
+            "hypoallergenic",
+            "loves water",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Simba Nose",
+        "age": 14,
+        "features": [
+            "good with kids",
+            "loves water",
+            "hates being alone",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Coco Meow",
+        "age": 2,
+        "features": [
+            "lap cat",
+            "requires grooming",
+            "hates being alone",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Shadow Paws",
+        "age": 18,
+        "features": [
+            "follows owner",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Misty Whiskers",
+        "age": 7,
+        "features": [
+            "scratches furniture",
+            "hates being alone"
+        ]
+    },
+    {
+        "name": "Luna Tail",
+        "age": 5,
+        "features": [
+            "sociable with other pets",
+            "good with kids",
+            "hypoallergenic",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Coco Nose",
+        "age": 0,
+        "features": [
+            "requires grooming",
+            "good with kids",
+            "short hair",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Smokey Tail",
+        "age": 5,
+        "features": [
+            "lap cat",
+            "loves water",
+            "follows owner",
+            "nocturnal",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Smokey Eyes",
+        "age": 6,
+        "features": [
+            "plays fetch",
+            "mischievous",
+            "long hair"
+        ]
+    },
+    {
+        "name": "Smokey Fur",
+        "age": 16,
+        "features": [
+            "long hair",
+            "indoor cat",
+            "good with kids",
+            "follows owner",
+            "requires grooming"
+        ]
+    },
+    {
+        "name": "Luna Purr",
+        "age": 19,
+        "features": [
+            "nocturnal",
+            "lazy",
+            "loves to climb",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Fluffy Fur",
+        "age": 4,
+        "features": [
+            "curious",
+            "loves water",
+            "mischievous",
+            "indoor cat"
+        ]
+    },
+    {
+        "name": "Tiger Paws",
+        "age": 14,
+        "features": [
+            "short hair",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Nose",
+        "age": 1,
+        "features": [
+            "nocturnal",
+            "plays fetch",
+            "lazy",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Simba Paws",
+        "age": 19,
+        "features": [
+            "plays fetch",
+            "lazy"
+        ]
+    },
+    {
+        "name": "Misty Meow",
+        "age": 2,
+        "features": [
+            "outdoor cat",
+            "indoor cat",
+            "loves to climb"
+        ]
+    },
+    {
+        "name": "Simba Purr",
+        "age": 1,
+        "features": [
+            "hypoallergenic",
+            "curious",
+            "lap cat",
+            "energetic"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 15,
+        "features": [
+            "scratches furniture",
+            "follows owner"
+        ]
+    },
+    {
+        "name": "Tiger Meow",
+        "age": 18,
+        "features": [
+            "good with kids",
+            "requires grooming",
+            "hates being alone",
+            "hypoallergenic"
+        ]
+    },
+    {
+        "name": "Oreo Ears",
+        "age": 6,
+        "features": [
+            "requires grooming",
+            "sociable with other pets",
+            "loves to climb",
+            "plays fetch",
+            "scratches furniture"
+        ]
+    },
+    {
+        "name": "Oreo Whiskers",
+        "age": 14,
+        "features": [
+            "loves water",
+            "lap cat",
+            "loves to climb"
+        ]
+    }
+]
